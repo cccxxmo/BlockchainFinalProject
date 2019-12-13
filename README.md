@@ -11,6 +11,6 @@
 4. 编译并部署合约，创建表格  
    `python init.py`
    
-5. 将main.py中的`to_address`赋值为上一步部署的智能合约的地址（可在控制台查看输出，也可在python-sdk/bin/contract.ini中得到）
+5. 将main.py中的`to_address`赋值为上一步部署的智能合约的地址（可在控制台查看输出，也可在`python-sdk/bin/contract.ini`中得到）
 
 6. `python main.py`
